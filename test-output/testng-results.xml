@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30376" started-at="2022-09-17T13:09:35Z" finished-at="2022-09-17T13:10:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30376" started-at="2022-09-17T13:09:35Z" finished-at="2022-09-17T13:10:05Z">
+      <class name="com.practice.DataProviderExcel">
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:0, instance:com.practice.DataProviderExcel@61832929]" name="loginPage" duration-ms="7366" started-at="2022-09-17T18:39:35Z" data-provider="data" finished-at="2022-09-17T18:39:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UserName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:0, instance:com.practice.DataProviderExcel@61832929]" name="loginPage" duration-ms="5653" started-at="2022-09-17T18:39:43Z" data-provider="data" finished-at="2022-09-17T18:39:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ManikandanSakthivel1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:0, instance:com.practice.DataProviderExcel@61832929]" name="loginPage" duration-ms="5280" started-at="2022-09-17T18:39:48Z" data-provider="data" finished-at="2022-09-17T18:39:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ManikandanSakthivel1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:0, instance:com.practice.DataProviderExcel@61832929]" name="loginPage" duration-ms="5232" started-at="2022-09-17T18:39:54Z" data-provider="data" finished-at="2022-09-17T18:39:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ManikandanSakthivel]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="loginPage(java.lang.String, java.lang.String)[pri:0, instance:com.practice.DataProviderExcel@61832929]" name="loginPage" duration-ms="6282" started-at="2022-09-17T18:39:59Z" data-provider="data" finished-at="2022-09-17T18:40:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ManikandanSakthivel]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+      </class> <!-- com.practice.DataProviderExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
